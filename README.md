@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Data Science - Machine Learning -Data Analysis
-![Data Science - Machine Learning -Data Analysis](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Data Science - Machine Learning -Data Analysis](https://github.com/Muhap/Muhap/blob/main/photo_2024-02-27_05-51-50.jpg)
 
 Greetings, I'm Muhap Ayman, hailing from the vibrant city of Giza, Egypt. My fascination lies in the realm of data and its profound ability to illuminate the intricacies of human behavior, emotions, and the subtle nuances of our lives, guiding us towards continuous improvement.
 
